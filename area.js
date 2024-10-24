@@ -4,7 +4,7 @@
 //lado1 = 9;
 
 
-//area = lado1 * lado1;
+//area = lado1 * lado1 ;
 
 //console.log("El area es: " + area);
 
